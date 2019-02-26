@@ -1,13 +1,13 @@
-#HW3 for Data Sciecne
+# HW3 for Data Sciecne
 
-#Problem Description
+# Problem Description
 I am now playing a game called 'warframe', and there is a trading webside for this game named 'warframe markect'(https://warframe.market/).
 
 Suppose I want to buy a equipment called 'Volt Prime' from another players, as well as looking through the trading information on the website, using a scrapy seems to be a good choice to do so.
 
 Here is the python code.
 
-#Step1 data scrapy
+# Step1 data scrapy
 
 Open the Jupyter notebook and import scrapy modules like 'requests', 'html' and 'bs4'.
 ```pythonscript
@@ -29,7 +29,7 @@ trade = s[4].text
 ```
 Then, the trading information is download as a text file.
 
-#Step2 data transform
+# Step2 data transform
 
 The text is a json file. We should transform it to a dictionary to read the content. Let's import mudole to deal with it.
 
@@ -85,7 +85,7 @@ trading=Table().with_columns('gameID',name,'status',status,'order_type',order_ty
 
 ```
 
-#Step3 data analyze and store
+# Step3 data analyze and store
 
 Now, I want to know the orders of seller. Thus, we can build a new table to select the rows needed. 
 ```pythonscript
