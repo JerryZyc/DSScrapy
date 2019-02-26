@@ -1,5 +1,5 @@
 # HW3 for Data Sciecne
-
+by Yancheng Zhu(yz3365) & Shili Wu(sw3302)
 # Problem Description
 I am now playing a game called 'warframe', and there is a trading webside for this game named 'warframe markect'(https://warframe.market/).
 
