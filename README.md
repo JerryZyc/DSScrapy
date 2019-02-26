@@ -109,7 +109,7 @@ trading_sell.hist(3)
 trading_buy.hist(3)
 ```
 
-At last, store the talbe as a csv file.
+At last, store the table as a csv file.
 
 ```pythonscript
 trading.to_csv('Volt Prime.csv')
