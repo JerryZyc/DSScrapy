@@ -1,2 +1,1 @@
-# DSScrapy
-HW for Data Sciecne
+##HW3 for Data Sciecne
