@@ -5,7 +5,7 @@ Youtube Vedio https://youtu.be/vCck81LXcsI
 # Problem Description
 I am now playing a game called 'warframe', and there is a trading webside for this game named 'warframe markect'(https://warframe.market/).
 
-Suppose I want to buy a equipment called 'Volt Prime' from another players, as well as looking through the trading information on the website, using a scrapy seems to be a good choice to do so.
+Suppose I want to buy an equipment called 'Volt Prime' from another players, as well as looking through the trading information on the website, using a scrapy seems to be a good choice to do so.
 
 Here is the python code.
 
